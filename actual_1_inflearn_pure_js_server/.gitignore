@@ -22,3 +22,5 @@ Thumbs.db
 
 # TypeScript 빌드 정보
 *.tsbuildinfo
+
+.DS_Store
