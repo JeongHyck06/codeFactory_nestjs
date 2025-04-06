@@ -1,0 +1,24 @@
+# node modules
+node_modules/
+
+# 빌드 결과
+dist/
+
+# 환경 설정
+.env
+.env.*
+
+# 로그 파일
+*.log
+
+# 캐시/커버리지
+.cache/
+coverage/
+
+# macOS / Windows / VSCode 관련
+.DS_Store
+Thumbs.db
+.vscode/
+
+# TypeScript 빌드 정보
+*.tsbuildinfo
